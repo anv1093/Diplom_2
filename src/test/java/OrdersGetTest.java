@@ -1,6 +1,4 @@
-import ingredients.IngredientsClient;
 import io.restassured.response.Response;
-import order.Order;
 import order.OrderClient;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

@@ -4,7 +4,6 @@ import config.EnvConfig;
 import io.qameta.allure.Step;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
-import user.User;
 
 import static io.restassured.RestAssured.given;
 
